@@ -1,0 +1,21 @@
+h1 {
+    color: red;
+}
+h2 {
+    color: blue;
+}
+h3 {
+    background-color: black;
+}
+h4 {
+    border-radius: 10px;
+    border: 2px solid purple;
+
+}
+h5:hover {
+    color: chartreuse;
+
+}
+h6 {
+    color: red;
+}
